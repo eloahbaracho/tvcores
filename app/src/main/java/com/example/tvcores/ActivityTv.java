@@ -9,5 +9,7 @@ public class ActivityTv extends AppCompatActivity {
     public void onCreate (Bundle bundle) {
         super.onCreate(bundle);
         setContentView(R.layout.layout_tv);
+
+
     }
 }

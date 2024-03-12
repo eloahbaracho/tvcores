@@ -8,7 +8,7 @@
     android:backgroundTint="#CC3535">
 
     <LinearLayout
-        android:id="@+id/linearLayout"
+        android:id="@+id/lineartv"
         android:layout_width="432dp"
         android:layout_height="833dp"
         android:orientation="horizontal"
